@@ -11,4 +11,8 @@
     tools:context="com.example.administrator.ak.Main5Activity">
 
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </RelativeLayout>
